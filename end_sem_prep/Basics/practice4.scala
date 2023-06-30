@@ -7,6 +7,6 @@ object str{
         var d = StdIn.readInt()
         var m = s.patch(d,"",1)
         // the three parameters are first one position and second replace , third how many characters what to be repalced
-        println(m)
+        println(s"$m is the modified string")
     }
 }

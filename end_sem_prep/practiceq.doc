@@ -1,0 +1,40 @@
+Scala Practice Exercises 
+
+Basic:
+
+1. Write a Scala program to compute the sum of the two given integer values. If the two values are the same, then return triples their sum.  
+2. Write a Scala program to get the absolute difference between n and 51. If n is greater than 51 return triple the absolute difference.  
+3. Write a Scala program to check two given integers, and return true if one of them is 30 or if their sum is 30.  
+4. Write a Scala program to remove the character in a given position of a given string. The given position will be in the range 0...string length -1 inclusive.  
+5. Write a Scala program to find the larger value from two positive integer values in the range 20..30 inclusive, or return 0 if neither is in that range.
+
+Strings:
+
+6. Write a Scala program to calculate the sum of the numbers appear in a given string.
+The given string is: it 15 is25 a 20string
+The sum of the numbers in the said string is: 60
+7. Write a Scala program to check if two given strings are rotations of each other:
+Sample Output:
+The given strings are: ABACD  and  CDABA
+The concatination of 1st string twice is: ABACDABACD
+The 2nd string CDABA  exists in the new string.
+Strings are rotations of each other 
+8. Write a Scala program to count and print all the duplicates in the input string. 
+9. Write a Scala program to convert all the characters to lowercase, uppercase strings.
+10. Write a Scala program to get a substring of a given string between two specified positions.
+
+Arrays:
+
+11. Write a Scala program to reverse an array of integer values using the same array.
+12. Write a Scala program to find the common elements between two arrays of integers.
+13. Write a Scala program to find the common elements between two arrays of strings.
+14. Write a Scala program to get the difference between the largest and smallest values in an array of integers. The length of the array must be 1 and above.
+15. Write a Scala program to find the two elements from a given array of positive and negative numbers such that their sum is closest to zero.
+
+Lists:
+
+16. Write a Scala program to remove single and multiple elements from a given list.
+17.  Write a Scala program to iterate over a list to print the elements and calculate the sum and product of all elements of this list. 
+18.  Write a Scala program to remove duplicates from a given list.
+19.  Write a Scala program to get the difference between two given lists.	
+20. Write a Scala program to check a given list is a palindrome or not.

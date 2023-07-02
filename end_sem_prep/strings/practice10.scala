@@ -7,11 +7,10 @@ def main(args: Array[String]){
     var n = StdIn.readInt()
     var k = StdIn.readInt()
     var i = ""
-    for (j <- 0 to s.length){
-        if (j>=n && j<= k){
+    for (j <- n to k+1){
             i=i+s(j)
         }
-    }
+    
     println(i)
 }
 }

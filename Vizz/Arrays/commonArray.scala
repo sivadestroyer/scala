@@ -17,7 +17,7 @@ object Ground {
 
     // common elemenrs in 2 lists
     def foo(arr1: Array[Int], arr2: Array[Int]): Array[Int] = {
-        var ret: Array[Int] = Array.empty[Int]
+        var ret: Array[Int] = Array()
 
         for ( i <- arr2 ) {
             // if( arr1.contains(i) ) {

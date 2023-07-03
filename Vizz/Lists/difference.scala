@@ -4,7 +4,7 @@ object Ground {
 
     // Diffrerence between 2 lists
     def foo(lst1: List[Int], lst2: List[Int]): Array[Int] = {
-        var ret = Array.empty[Int]
+        var ret = Array()
 
         for( i <- lst1 ) {
             if( !lst2.contains(i) ) {
